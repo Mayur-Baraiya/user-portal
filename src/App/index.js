@@ -22,7 +22,7 @@ class App extends Component {
             <Route  path="/confirmed-user">
                 <ConfirmationComp/>
               </Route>
-              <Route  path="/interview-api-test">
+              <Route  path="/user-portal">
                 <CreateUser />
               </Route>
               <Route path="/">
